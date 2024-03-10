@@ -1,4 +1,4 @@
-# BIZNLP: Predicting Product Launch Success with Natural Language Processing
+# BIZNLP: A way to change the face of business
 
 BIZNLP is an innovative machine learning model designed to revolutionize product launch strategies by leveraging natural language processing techniques. The project aims to predict the success of a product launch based on earlier reviews from various e-commerce platforms, providing insights into its potential performance and market reception.
 
