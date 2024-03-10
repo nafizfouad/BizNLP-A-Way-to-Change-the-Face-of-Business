@@ -43,11 +43,3 @@ To use BIZNLP, simply follow these steps:
 ## Contributions
 
 Contributions to BIZNLP are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to [OpenAI](https://openai.com) for providing advanced language models and to the open-source community for developing and maintaining the libraries used in this project.
